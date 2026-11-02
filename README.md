@@ -21,5 +21,3 @@ GitHub Pages sirve `index.html` desde la raíz de `main`:
 - **Cambio de correo**: metadatos, sección 8 y sección 11, en ambos idiomas.
 - **Coherencia obligatoria**: la política y el formulario de Seguridad de datos de Play
   declaran lo mismo. Una discrepancia entre ambos es motivo de retirada.
-- **`app-ads.txt`** (AdMob): debe servirse desde la raíz del dominio, así que no funciona
-  desde este repositorio de proyecto. Haría falta un dominio propio.
